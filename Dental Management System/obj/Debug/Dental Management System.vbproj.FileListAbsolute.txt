@@ -165,3 +165,7 @@ C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Deb
 C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.BillReport.resources
 C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.PatientBill.resources
 C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.PatientReport.resources
+C:\Users\chjaga\Desktop\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\chjaga\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\chjaga\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\chjaga\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
