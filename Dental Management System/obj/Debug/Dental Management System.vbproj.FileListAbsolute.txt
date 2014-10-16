@@ -1,0 +1,167 @@
+C:\Users\Jake\AppData\Local\Temporary Projects\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Test Program 2\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Backup Files\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.searchForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Scheduling_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Test Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.operationForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.operationForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Scheduling_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.searchForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form3.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form3.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.operationForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Scheduling_Form.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.searchForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_List.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.billingRecordForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm__2_.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientRecordForm.resources
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientHistoryForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Billing_Record_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.billingRecordForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form3.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientRecordForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientHistoryForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.operationForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_List.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm__2_.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Scheduling_Form.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.searchForm.resources
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Mabel\Desktop\Mabel\SOFTWEN\New folder\Dental Management System\Dental Management System with Database [Updated]\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Sms.resources
+C:\Users\chjaga\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\chjaga\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\chjaga\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\chjaga\Documents\Visual Studio 2012\Projects\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe.config
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\bin\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\bin\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\bin\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.billingRecordForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form5.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientRecordForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientHistoryForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.loginForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.operationForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_List.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm__2_.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Register_Form.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Form.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.mainForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Patient_Form_2.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Form1.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Main_Page_2.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.patientForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Resources.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Scheduling_Form.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.searchForm.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Show_Schedules.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.Sms.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.vbproj.GenerateResource.Cache
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.exe
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.xml
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental Management System.pdb
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.PatientProfile.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.BillReport.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.PatientBill.resources
+C:\Users\Mabel\Desktop\Dental Management System\Dental Management System\obj\Debug\Dental_Management_System.PatientReport.resources
